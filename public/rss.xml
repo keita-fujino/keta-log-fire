@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 21 Feb 2021 18:19:33 &#43;0900</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 21:12:31 &#43;0900</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://keta-log-fire.netlify.com/rss.xml" />
         
@@ -109,12 +109,6 @@
                                 
                                 
                                     <category domain="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/">転職</category>
                                 
                             
                         
@@ -240,12 +234,6 @@
                                 
                                 
                                     <category domain="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/">転職</category>
                                 
                             
                         
@@ -387,12 +375,6 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                     <category domain="https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
                                 
                             
-                                
-                                
-                                
-                                    <category domain="https://keta-log-fire.netlify.com/categories/hugo/">Hugo</category>
-                                
-                            
                         
                     
                         
@@ -485,12 +467,6 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                 
                     
                         
-                            
-                                
-                                
-                                
-                                    <category domain="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/">転職</category>
-                                
                             
                                 
                                 
@@ -621,12 +597,6 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 
                                 
                                     <category domain="https://keta-log-fire.netlify.com/categories/%E6%9C%AC/">本</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                         

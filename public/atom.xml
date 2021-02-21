@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
     <title type="text">KETA-LOG　-Load to FIRE-</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-02-21T18:19:33&#43;09:00</updated>
+    <updated>2021-02-21T21:12:31&#43;09:00</updated>
     <id>https://keta-log-fire.netlify.com/</id>
     <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://keta-log-fire.netlify.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">転職活動について②</title>
             <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210123/" />
             <id>https://keta-log-fire.netlify.com/posts/01/20210123/</id>
-            <updated>2021-02-21T17:04:26&#43;09:00</updated>
+            <updated>2021-02-21T21:11:55&#43;09:00</updated>
             <published>2021-01-23T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
@@ -102,12 +102,6 @@
                                 <category scheme="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
-                            
-                            
-                            
-                                <category scheme="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
-                            
-                        
                     
                 
                     
@@ -133,7 +127,7 @@
             <title type="text">転職活動について①</title>
             <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210114/" />
             <id>https://keta-log-fire.netlify.com/posts/01/20210114/</id>
-            <updated>2021-02-21T18:17:19&#43;09:00</updated>
+            <updated>2021-02-21T21:11:48&#43;09:00</updated>
             <published>2021-01-14T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
@@ -236,12 +230,6 @@
                                 <category scheme="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
-                            
-                            
-                            
-                                <category scheme="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
-                            
-                        
                     
                 
                     
@@ -267,7 +255,7 @@
             <title type="text">ブログをHugoに移行しました</title>
             <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210110/" />
             <id>https://keta-log-fire.netlify.com/posts/01/20210110/</id>
-            <updated>2021-02-21T17:03:59&#43;09:00</updated>
+            <updated>2021-02-21T21:11:42&#43;09:00</updated>
             <published>2021-01-10T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
@@ -384,12 +372,6 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 <category scheme="https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
                             
                         
-                            
-                            
-                            
-                                <category scheme="https://keta-log-fire.netlify.com/categories/hugo/" term="Hugo" label="Hugo" />
-                            
-                        
                     
                 
                     
@@ -415,7 +397,7 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
             <title type="text">転職を考えています。</title>
             <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210103/" />
             <id>https://keta-log-fire.netlify.com/posts/01/20210103/</id>
-            <updated>2021-02-21T17:04:58&#43;09:00</updated>
+            <updated>2021-02-21T21:11:32&#43;09:00</updated>
             <published>2021-01-03T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
@@ -489,12 +471,6 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                             
-                                <category scheme="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
-                            
-                        
-                            
-                            
-                            
                                 <category scheme="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
@@ -523,7 +499,7 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
             <title type="text">【本の紹介】働き方シフト</title>
             <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210102/" />
             <id>https://keta-log-fire.netlify.com/posts/01/20210102/</id>
-            <updated>2021-02-21T17:03:42&#43;09:00</updated>
+            <updated>2021-02-21T21:11:20&#43;09:00</updated>
             <published>2021-01-02T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
@@ -624,12 +600,6 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                                 <category scheme="https://keta-log-fire.netlify.com/categories/%E6%9C%AC/" term="本" label="本" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                     
