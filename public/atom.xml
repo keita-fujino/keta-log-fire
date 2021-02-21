@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
     <title type="text">KETA-LOG　-Load to FIRE-</title>
     <subtitle type="html">FIREを目指して自己成長や投資を頑張るブログです。</subtitle>
-    <updated>2021-02-21T23:10:13&#43;09:00</updated>
+    <updated>2021-02-21T23:19:10&#43;09:00</updated>
     <id>https://keta-log-fire.netlify.com/</id>
     <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://keta-log-fire.netlify.com/atom.xml" />
@@ -103,7 +103,7 @@
             <title type="text">久しぶりの投稿です。</title>
             <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/02/20210129/" />
             <id>https://keta-log-fire.netlify.com/posts/02/20210129/</id>
-            <updated>2021-02-21T22:53:23&#43;09:00</updated>
+            <updated>2021-02-21T23:18:53&#43;09:00</updated>
             <published>2021-02-21T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
@@ -122,7 +122,6 @@
 &lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/40751/running-runner-long-distance-fitness-40751.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;h=750&amp;amp;w=1260&#34; alt=&#34;Restart&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ブログを再開するにあたって、サイトデザインの更新をしました。&lt;/p&gt;
 &lt;p&gt;これまでに書いた（本の少しの）記事は、全てマークダウンで書いていた内容でしたので、ファイルを「.md」にして記事の情報を少し調整してあげれば、移行は簡単にできました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://keta-log-fire.netlify.com/resources/_gen/images/20210221.png&#34; alt=&#34;イメージ&#34;&gt;&lt;/p&gt;
 &lt;p&gt;結構シンプルなサイトデザインになりました。&lt;/p&gt;
 &lt;p&gt;これまでの記事も上手く表示することができました。&lt;/p&gt;
 &lt;h1 id=&#34;今後は&#34;&gt;今後は&lt;/h1&gt;
