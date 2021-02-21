@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = true
 pluralizeListTitles = false
 
 # The length of text in words to show in summary
-summaryLength = 42
+summaryLength = 60
 
 # Enable Emoji emoticons support?
 enableEmoji = false
@@ -341,7 +341,7 @@ uglyURLs = false
     siteLogo = ""
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "FIREを目指して自己成長や投資を頑張るブログです。"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -349,7 +349,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = ""
     # Note: used for Twitter Cards
 
 
@@ -865,7 +865,7 @@ uglyURLs = false
 
     enableImageHost = false
 
-    imageHostURL = "https://example.com/"
+    imageHostURL = ""
 
     # Replace the image link in the HTML
     # head meta also?
