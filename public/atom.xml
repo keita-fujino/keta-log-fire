@@ -3,8 +3,8 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
     <title type="text">KETA-LOG　-Load to FIRE-</title>
-    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-02-21T21:12:31&#43;09:00</updated>
+    <subtitle type="html">FIREを目指して自己成長や投資を頑張るブログです。</subtitle>
+    <updated>2021-02-21T22:23:59&#43;09:00</updated>
     <id>https://keta-log-fire.netlify.com/</id>
     <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://keta-log-fire.netlify.com/atom.xml" />
@@ -24,7 +24,7 @@
             <published>2021-01-23T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://keta-log-fire.netlify.com/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">内定が１社出ました。同居している両親に報告した。内定に応じるか検討中です。</summary>
@@ -131,7 +131,7 @@
             <published>2021-01-14T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://keta-log-fire.netlify.com/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">転職活動をしていることを同居している両親と話しました。どういった形で現在、転職活動を進めているのかをざっくりと書いてみました。あくまで私の主観となります。</summary>
@@ -259,7 +259,7 @@
             <published>2021-01-10T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://keta-log-fire.netlify.com/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">ブログをNuxt.jsからHugoに移行しました。早くも。でもデザインとか困らないし、設定さえできればいい感じになります。</summary>
@@ -401,7 +401,7 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
             <published>2021-01-03T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://keta-log-fire.netlify.com/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">実は少し前から転職を考えていました。 今の仕事について７年目になりますが、なかなか自分のスキルになっているものがないなぁと日々感じることが多くなってきました。 他にも理由があるにはあるので、少しづつ書いてみたいと思います。</summary>
@@ -503,7 +503,7 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
             <published>2021-01-02T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://keta-log-fire.netlify.com/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">働き方シフトという本を見つけたので、今の自分の働き方を考え直すきっかけになればと思い読んでみました。</summary>
@@ -631,7 +631,7 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
             <published>2021-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>けた</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://keta-log-fire.netlify.com/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">ブログを始めますので、決意表明的な何かを書きます。</summary>

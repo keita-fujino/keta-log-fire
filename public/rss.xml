@@ -9,7 +9,7 @@
     <channel>
         <title>KETA-LOG　-Load to FIRE-</title>
         <link>https://keta-log-fire.netlify.com/</link>
-        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <description>FIREを目指して自己成長や投資を頑張るブログです。</description>
         <generator>Hugo 0.80.0 https://gohugo.io/</generator>
         
             <language>ja</language>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 21 Feb 2021 21:12:31 &#43;0900</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 22:23:59 &#43;0900</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://keta-log-fire.netlify.com/rss.xml" />
         
