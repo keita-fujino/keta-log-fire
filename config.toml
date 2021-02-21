@@ -338,7 +338,7 @@ uglyURLs = false
     ######################################
     # Site Info
 
-    siteLogo = "/icons/apple-touch-icon.png"
+    siteLogo = ""
     # Note: used for JSON-LD, Open Graph
 
     siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
@@ -517,7 +517,7 @@ uglyURLs = false
 
     enableDarkMode = true
 
-    defaultTheme = "dark"
+    defaultTheme = "light"
     # Note: light or dark
 
     hideThemeToggle = false
