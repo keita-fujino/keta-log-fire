@@ -3,38 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://keta-log-fire.netlify.com/categories/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/posts/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/tags/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/posts/02/20210221/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
+    <lastmod>2021-02-21T22:53:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
+    <lastmod>2021-02-21T22:53:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/posts/02/20210129/</loc>
+    <lastmod>2021-02-21T22:53:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/tags/%E8%B6%A3%E5%91%B3/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/categories/%E8%B6%A3%E5%91%B3/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keta-log-fire.netlify.com/tags/%E9%9F%B3%E6%A5%BD/</loc>
+    <lastmod>2021-02-21T23:09:54+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://keta-log-fire.netlify.com/about/</loc>
     <lastmod>2021-02-21T17:04:43+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://keta-log-fire.netlify.com/categories/</loc>
-    <lastmod>2021-02-21T21:11:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keta-log-fire.netlify.com/</loc>
-    <lastmod>2021-02-21T21:11:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keta-log-fire.netlify.com/tags/</loc>
-    <lastmod>2021-02-21T21:11:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keta-log-fire.netlify.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-    <lastmod>2021-02-21T21:11:42+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://keta-log-fire.netlify.com/categories/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2021-02-21T17:04:43+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keta-log-fire.netlify.com/posts/</loc>
-    <lastmod>2021-02-21T21:11:55+09:00</lastmod>
   </url>
   
   <url>
@@ -64,11 +94,6 @@
   
   <url>
     <loc>https://keta-log-fire.netlify.com/tags/hugo/</loc>
-    <lastmod>2021-02-21T21:11:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
     <lastmod>2021-02-21T21:11:42+09:00</lastmod>
   </url>
   
