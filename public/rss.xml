@@ -7,34 +7,34 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>KF-LOG　-Load to FIRE-</title>
-        <link>https://example.com/</link>
+        <title>KETA-LOG　-Load to FIRE-</title>
+        <link>https://keta-log-fire.netlify.com/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.80.0 https://gohugo.io/</generator>
         
             <language>ja</language>
         
         
-            <managingEditor>feketerigo.44@gmail.com (Keita)</managingEditor>
+            <managingEditor>feketerigo.44@gmail.com (けた)</managingEditor>
         
         
-            <webMaster>feketerigo.44@gmail.com (Keita)</webMaster>
+            <webMaster>feketerigo.44@gmail.com (けた)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 21 Feb 2021 17:05:30 &#43;0900</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 18:14:41 &#43;0900</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://keta-log-fire.netlify.com/rss.xml" />
         
         
             <item>
                 <title>転職活動について②</title>
-                <link>https://example.com/posts/01/20210123/</link>
-                <guid isPermaLink="true">https://example.com/posts/01/20210123/</guid>
+                <link>https://keta-log-fire.netlify.com/posts/01/20210123/</link>
+                <guid isPermaLink="true">https://keta-log-fire.netlify.com/posts/01/20210123/</guid>
                 <pubDate>Sat, 23 Jan 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>feketerigo.44@gmail.com (Keita)</author>
+                    <author>feketerigo.44@gmail.com (けた)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -108,13 +108,13 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E8%BB%A2%E8%81%B7/">転職</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/">転職</category>
                                 
                             
                         
@@ -124,13 +124,13 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E8%BB%A2%E8%81%B7/">転職</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E8%BB%A2%E8%81%B7/">転職</category>
                                 
                             
                         
@@ -140,11 +140,11 @@
         
             <item>
                 <title>ブログをHugoに移行しました</title>
-                <link>https://example.com/posts/01/20210110/</link>
-                <guid isPermaLink="true">https://example.com/posts/01/20210110/</guid>
+                <link>https://keta-log-fire.netlify.com/posts/01/20210110/</link>
+                <guid isPermaLink="true">https://keta-log-fire.netlify.com/posts/01/20210110/</guid>
                 <pubDate>Sun, 10 Jan 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>feketerigo.44@gmail.com (Keita)</author>
+                    <author>feketerigo.44@gmail.com (けた)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -253,13 +253,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/hugo/">Hugo</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/hugo/">Hugo</category>
                                 
                             
                         
@@ -269,13 +269,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/hugo/">Hugo</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/hugo/">Hugo</category>
                                 
                             
                         
@@ -285,11 +285,11 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
         
             <item>
                 <title>転職を考えています。</title>
-                <link>https://example.com/posts/01/20210103/</link>
-                <guid isPermaLink="true">https://example.com/posts/01/20210103/</guid>
+                <link>https://keta-log-fire.netlify.com/posts/01/20210103/</link>
+                <guid isPermaLink="true">https://keta-log-fire.netlify.com/posts/01/20210103/</guid>
                 <pubDate>Sun, 03 Jan 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>feketerigo.44@gmail.com (Keita)</author>
+                    <author>feketerigo.44@gmail.com (けた)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -358,13 +358,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E8%BB%A2%E8%81%B7/">転職</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/">転職</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                         
@@ -374,13 +374,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E8%BB%A2%E8%81%B7/">転職</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E8%BB%A2%E8%81%B7/">転職</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                         
@@ -390,11 +390,11 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
         
             <item>
                 <title>【本の紹介】働き方シフト</title>
-                <link>https://example.com/posts/01/20210102/</link>
-                <guid isPermaLink="true">https://example.com/posts/01/20210102/</guid>
+                <link>https://keta-log-fire.netlify.com/posts/01/20210102/</link>
+                <guid isPermaLink="true">https://keta-log-fire.netlify.com/posts/01/20210102/</guid>
                 <pubDate>Sat, 02 Jan 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>feketerigo.44@gmail.com (Keita)</author>
+                    <author>feketerigo.44@gmail.com (けた)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -489,13 +489,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E6%9C%AC/">本</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E6%9C%AC/">本</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                         
@@ -505,13 +505,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E6%9C%AC/">本</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E6%9C%AC/">本</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                         
@@ -521,11 +521,11 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
         
             <item>
                 <title>ブログを始めます</title>
-                <link>https://example.com/posts/01/20210101/</link>
-                <guid isPermaLink="true">https://example.com/posts/01/20210101/</guid>
+                <link>https://keta-log-fire.netlify.com/posts/01/20210101/</link>
+                <guid isPermaLink="true">https://keta-log-fire.netlify.com/posts/01/20210101/</guid>
                 <pubDate>Fri, 01 Jan 2021 00:00:00 &#43;0000</pubDate>
                 
-                    <author>feketerigo.44@gmail.com (Keita)</author>
+                    <author>feketerigo.44@gmail.com (けた)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -613,7 +613,7 @@ Webサイト、ましてや自作サイトなので育てていくにはそれ�
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
+                                    <category domain="https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
                                 
                             
                         
@@ -623,13 +623,13 @@ Webサイト、ましてや自作サイトなので育てていくにはそれ�
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/">ブログ</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
+                                    <category domain="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/">仕事</category>
                                 
                             
                         

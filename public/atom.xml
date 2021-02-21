@@ -2,15 +2,15 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
-    <title type="text">KF-LOG　-Load to FIRE-</title>
+    <title type="text">KETA-LOG　-Load to FIRE-</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-02-21T17:05:30&#43;09:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2021-02-21T18:14:41&#43;09:00</updated>
+    <id>https://keta-log-fire.netlify.com/</id>
+    <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://keta-log-fire.netlify.com/atom.xml" />
     <author>
-            <name>Keita</name>
-            <uri>https://example.com/</uri>
+            <name>けた</name>
+            <uri>https://keta-log-fire.netlify.com/</uri>
             
                 <email>feketerigo.44@gmail.com</email>
             </author>
@@ -18,12 +18,12 @@
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
         <entry>
             <title type="text">転職活動について②</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/01/20210123/" />
-            <id>https://example.com/posts/01/20210123/</id>
+            <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210123/" />
+            <id>https://keta-log-fire.netlify.com/posts/01/20210123/</id>
             <updated>2021-02-21T17:04:26&#43;09:00</updated>
             <published>2021-01-23T00:00:00&#43;00:00</published>
             <author>
-                    <name>Keita</name>
+                    <name>けた</name>
                     <uri>https://io-oi.me/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
@@ -99,13 +99,13 @@
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
                             
                         
                     
@@ -115,13 +115,13 @@
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
                             
                         
                     
@@ -131,12 +131,12 @@
     
         <entry>
             <title type="text">ブログをHugoに移行しました</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/01/20210110/" />
-            <id>https://example.com/posts/01/20210110/</id>
+            <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210110/" />
+            <id>https://keta-log-fire.netlify.com/posts/01/20210110/</id>
             <updated>2021-02-21T17:03:59&#43;09:00</updated>
             <published>2021-01-10T00:00:00&#43;00:00</published>
             <author>
-                    <name>Keita</name>
+                    <name>けた</name>
                     <uri>https://io-oi.me/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
@@ -247,13 +247,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/categories/hugo/" term="Hugo" label="Hugo" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/hugo/" term="Hugo" label="Hugo" />
                             
                         
                     
@@ -263,13 +263,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/hugo/" term="Hugo" label="Hugo" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/hugo/" term="Hugo" label="Hugo" />
                             
                         
                     
@@ -279,12 +279,12 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
     
         <entry>
             <title type="text">転職を考えています。</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/01/20210103/" />
-            <id>https://example.com/posts/01/20210103/</id>
+            <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210103/" />
+            <id>https://keta-log-fire.netlify.com/posts/01/20210103/</id>
             <updated>2021-02-21T17:04:58&#43;09:00</updated>
             <published>2021-01-03T00:00:00&#43;00:00</published>
             <author>
-                    <name>Keita</name>
+                    <name>けた</name>
                     <uri>https://io-oi.me/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
@@ -355,13 +355,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                     
@@ -371,13 +371,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E8%BB%A2%E8%81%B7/" term="転職" label="転職" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                     
@@ -387,12 +387,12 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
     
         <entry>
             <title type="text">【本の紹介】働き方シフト</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/01/20210102/" />
-            <id>https://example.com/posts/01/20210102/</id>
+            <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210102/" />
+            <id>https://keta-log-fire.netlify.com/posts/01/20210102/</id>
             <updated>2021-02-21T17:03:42&#43;09:00</updated>
             <published>2021-01-02T00:00:00&#43;00:00</published>
             <author>
-                    <name>Keita</name>
+                    <name>けた</name>
                     <uri>https://io-oi.me/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
@@ -489,13 +489,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E6%9C%AC/" term="本" label="本" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E6%9C%AC/" term="本" label="本" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                     
@@ -505,13 +505,13 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E6%9C%AC/" term="本" label="本" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E6%9C%AC/" term="本" label="本" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                     
@@ -521,12 +521,12 @@ HtmlとCSSについて少しでも知識がある方であれば、Go言語の�
     
         <entry>
             <title type="text">ブログを始めます</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/01/20210101/" />
-            <id>https://example.com/posts/01/20210101/</id>
+            <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/01/20210101/" />
+            <id>https://keta-log-fire.netlify.com/posts/01/20210101/</id>
             <updated>2021-02-21T17:03:24&#43;09:00</updated>
             <published>2021-01-01T00:00:00&#43;00:00</published>
             <author>
-                    <name>Keita</name>
+                    <name>けた</name>
                     <uri>https://io-oi.me/</uri>
                     <email>feketerigo.44@gmail.com</email>
                     </author>
@@ -616,7 +616,7 @@ Webサイト、ましてや自作サイトなので育てていくにはそれ�
                             
                             
                             
-                                <category scheme="https://example.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
                             
                         
                     
@@ -626,13 +626,13 @@ Webサイト、ましてや自作サイトなので育てていくにはそれ�
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/" term="ブログ" label="ブログ" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E4%BB%95%E4%BA%8B/" term="仕事" label="仕事" />
                             
                         
                     
