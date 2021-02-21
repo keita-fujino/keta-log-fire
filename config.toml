@@ -15,7 +15,7 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "ja"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
 # Pluralize titles in lists?
@@ -98,11 +98,11 @@ uglyURLs = false
     # Email
     email = "feketerigo.44@gmail.com"
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = ""
     # Avatar
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = "/icons/KETA-LOG-logo.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = ""
     # Twitter
     twitter = "https://twitter.com/K13938535"
 
@@ -641,8 +641,8 @@ uglyURLs = false
     #       has a higher priority than here
 
     ## Disqus
-    enableDisqus = true
-    disqusShortname = "fujinote"
+    enableDisqus = false
+    disqusShortname = ""
 
     ## Valine
     enableValine = false
