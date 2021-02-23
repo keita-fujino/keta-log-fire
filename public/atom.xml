@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
     <title type="text">KETA-LOG　-Load to FIRE-</title>
     <subtitle type="html">FIREを目指して自己成長や投資を頑張るブログです。</subtitle>
-    <updated>2021-02-21T23:19:10&#43;09:00</updated>
+    <updated>2021-02-23T22:41:00&#43;09:00</updated>
     <id>https://keta-log-fire.netlify.com/</id>
     <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://keta-log-fire.netlify.com/atom.xml" />
@@ -16,6 +16,105 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
+        <entry>
+            <title type="text">本を買いまくりました</title>
+            <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/02/20210223/" />
+            <id>https://keta-log-fire.netlify.com/posts/02/20210223/</id>
+            <updated>2021-02-23T22:40:33&#43;09:00</updated>
+            <published>2021-02-23T00:00:00&#43;00:00</published>
+            <author>
+                    <name>けた</name>
+                    <uri>https://keta-log-fire.netlify.com/</uri>
+                    <email>feketerigo.44@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">まだ読んでいない本が増えてきました。早く読みたいし、自分の中に蓄積したい。</summary>
+            
+                <content type="html">&lt;h1 id=&#34;本が増えてきました&#34;&gt;本が増えてきました&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=750&amp;amp;w=1260&#34; alt=&#34;本棚&#34;&gt;&lt;/p&gt;
+&lt;p&gt;こんばんは、けたです。&lt;/p&gt;
+&lt;p&gt;タイトルのとおり、本が結構増えてきました。
+気になった本は少し立ち読みして買ったり、ジャケ買いしたりしています。&lt;/p&gt;
+&lt;p&gt;おかげで本が結構たまってきました。&lt;/p&gt;
+&lt;h2 id=&#34;これから読む本&#34;&gt;これから読む本&lt;/h2&gt;
+&lt;p&gt;これから読む本は以下のとおりです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;金持ち父さん貧乏父さん投資ガイド[入門編]&lt;/li&gt;
+&lt;li&gt;10年後、後悔しないための自分の道の選び方&lt;/li&gt;
+&lt;li&gt;ゼロ秒思考&lt;/li&gt;
+&lt;li&gt;七つの習慣&lt;/li&gt;
+&lt;li&gt;独習Python&lt;/li&gt;
+&lt;li&gt;Vue.jsハンズオン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;結構あります。
+1つ1つ少しコメントします。&lt;/p&gt;
+&lt;h3 id=&#34;金持ち父さん貧乏父さん投資ガイド入門編&#34;&gt;金持ち父さん貧乏父さん投資ガイド[入門編]&lt;/h3&gt;
+&lt;p&gt;これは、今頑張っている投資の参考になればと思って買いました。&lt;/p&gt;
+&lt;p&gt;先に金持ち父さん貧乏父さんは読んでいます。その次に読んだほうが良いと思って買いました。&lt;/p&gt;
+&lt;p&gt;投資の考え方や次にどういう投資をしていくか、どういう投資手法がよいのか、考え方を含めてベースを作っていければと思います。&lt;/p&gt;
+&lt;h3 id=&#34;10年後後悔しないための自分の道の選び方&#34;&gt;10年後、後悔しないための自分の道の選び方&lt;/h3&gt;
+&lt;p&gt;これはジャケ買いでした。
+なんかきれいな表紙絵が目に留まり買いました。
+さらには、内容も現在の自分の悩みに役立ちそうなものかと思い買いました。
+これは途中まで読んでいましたので、少しづつ読み進めたいと思います。&lt;/p&gt;
+&lt;h3 id=&#34;ゼロ秒思考&#34;&gt;ゼロ秒思考&lt;/h3&gt;
+&lt;p&gt;これは、Youtebeで動画を見ていたら、ルーティン動画で出てくることが多く、気になって買いました。
+内容は、思考の整理、デトックスのようなイメージを持っています。&lt;/p&gt;
+&lt;h3 id=&#34;七つの習慣&#34;&gt;七つの習慣&lt;/h3&gt;
+&lt;p&gt;これは、職場の先輩に進められて買いました。
+途中まで読み進めていましたが、優先順位が高くなった他の本を読んでいて、だいぶ前から止まってしまいました。
+最初から読み直して、自分の生き方の糧にしたいと思います。&lt;/p&gt;
+&lt;h3 id=&#34;独習python&#34;&gt;独習Python&lt;/h3&gt;
+&lt;p&gt;独学で興味のあるPythonを学習してましたが、これまで本に頼った学習をしてこなかったので、ここでしっかりと基礎を固めたいと思い買いました。
+まだまだ知識は少ないので、基礎をしっかり固めて、個人開発や転職のスキルとできるようにして行けたらいいかと思っています。&lt;/p&gt;
+&lt;h3 id=&#34;vuejsハンズオン&#34;&gt;Vue.jsハンズオン&lt;/h3&gt;
+&lt;p&gt;Pythonはバックエンドのため、フロントエンドを学習するためにJavascriptのフレームワークであるVue.jsの教本を買いました。
+きっかけは、なりとさんのブログでDjango＋Vue.jsでブログを制作する記事があり、それを試しに模写してみた際に興味を持ちました。
+もちろんJavascriptの基礎を学習しなければならないことはありますが、興味を持ったので、Vue.jsから入って、一緒にJSも調べながら頑張りたいと思ます。&lt;/p&gt;
+&lt;h2 id=&#34;今後は&#34;&gt;今後は&lt;/h2&gt;
+&lt;p&gt;今後は、多分本を買いまくります。&lt;/p&gt;
+&lt;p&gt;そして、他にも買っている本があります。
+自分の成長につながる本や考えが変わったり、糧になるような本があるとうれしいですよね。&lt;/p&gt;
+&lt;p&gt;多分ちいさいけどそういう経験があったから本を買ってるし、読みたいと思っているのだと思います。&lt;/p&gt;
+&lt;p&gt;これからも人生を豊かにするために、行動をしていきたいと思います。&lt;/p&gt;
+&lt;p&gt;簡単ですが、今日はこの辺で終わります。&lt;/p&gt;
+&lt;p&gt;今回も最後まで読んでいただきありがとうございました。&lt;/p&gt;
+&lt;p&gt;※ブログが「いいな」とか「共通点あるな」って思ったら、ツイッターフォローお待ちしています。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://keta-log-fire.netlify.com/categories/%E6%9C%AC/" term="本" label="本" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E6%9C%AC/" term="本" label="本" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://keta-log-fire.netlify.com/tags/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/" term="自己啓発" label="自己啓発" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">おすすめの楽曲たち</title>
             <link rel="alternate" type="text/html" href="https://keta-log-fire.netlify.com/posts/02/20210221/" />
